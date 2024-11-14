@@ -1,0 +1,4 @@
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\TV\TVS\obj\Debug\net7.0\TVS.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\TV\TVS\obj\Debug\net7.0\TVS.AssemblyInfoInputs.cache
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\TV\TVS\obj\Debug\net7.0\TVS.AssemblyInfo.cs
+c:\Users\Lucas.bronegardlofs\Documents\Min favorit mapp\TV\TVS\obj\Debug\net7.0\TVS.csproj.CoreCompileInputs.cache
